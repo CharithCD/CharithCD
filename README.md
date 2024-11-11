@@ -11,16 +11,25 @@
   <img src="https://github-contribution-stats.vercel.app/api/?username=CharithCD" alt="Contribution Stats">
 </p>
 
+## Table of Contents
+- [🚀 About Me](#-about-me)
+- [🔥 Streak Stats](#-streak-stats)
+- [🛠️ My Favorite Tools](#%EF%B8%8F-my-favorite-tools)
+    - [👨‍💻 Programming Languages](#-programming-languages)
+    - [🧰 Frameworks and Libraries](#-frameworks-and-libraries)
+- [📊 Github Stats](#-github-stats)
+- [🎯 Latest Projects](#-latest-projects)
+- [🤝 Connect with Me](#-connect-with-me)
+
 ## 🚀 About Me
 
 ```python
 class Developer:
     def __init__(self):
-        self.name = "Your Name"
+        self.name = "Damruwan Weerasinghe"
         self.role = "Full Stack Developer"
-        self.language_spoken = ["en_US", "es_ES"]
+        self.language_spoken = ["en_US", "si_LK"]
         self.code = ["Python", "JavaScript", "React", "Node.js"]
-        self.challenge = "I am doing the #100DaysOfCode challenge focused on React and TypeScript"
         
     def say_hi(self):
         print("Thanks for dropping by! Let's build something amazing together!")
