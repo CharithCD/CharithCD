@@ -61,15 +61,12 @@ me.say_hi()
     <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white">
 </p>
 
-## 📊 Github Stats
-
-<details> 
-  <summary>💻 GitHub Profile Stats</summary>
-  <br/>
-    <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=CharithCD&show_icons=true&theme=radical" />
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharithCD&langs_count=8&layout=compact&theme=radical" />
-  <br/>
-</details>
+## 🐍 Contribution Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YourGitHubUsername/YourGitHubUsername/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YourGitHubUsername/YourGitHubUsername/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YourGitHubUsername/YourGitHubUsername/output/github-contribution-grid-snake.svg">
+</picture>
 
 ## 🎯 Latest Projects
 
