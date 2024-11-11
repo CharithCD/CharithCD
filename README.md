@@ -1,4 +1,4 @@
-# 👋 Hello World! I'm **[Your Name]** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+# 👋 Hello World! I'm **[CharithCD]** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 ![GitHub Header](https://your-image-link.com/header-image.png) <!-- Add a cool header image -->
 
@@ -25,7 +25,7 @@ const [Name] = {
 <table> <tr> <td> <img src="https://your-image-link.com/seasavers.gif" width="100%" alt="SeaSavers" /> </td> <td> <h3>SeaSavers 🌊</h3> <p>A mobile app promoting beach cleanups and marine conservation. Built with Expo & AppWrite.</p> <p><strong>Highlights:</strong> Gamification, community collaboration, educational content</p> </td> </tr> <tr> <td> <img src="https://your-image-link.com/fashion.gif" width="100%" alt="Fashion App" /> </td> <td> <h3>Online Fashion Retail System 👗</h3> <p>A personalized fashion e-commerce platform built with Next.js and powered by ML for recommendations.</p> <p><strong>Highlights:</strong> Trend-based recommendations, user history, collaborative filtering</p> </td> </tr> </table>
 
 📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" width="400" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" width="400" alt="GitHub Streak" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=CharithCD&show_icons=true&theme=radical" width="400" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" width="400" alt="GitHub Streak" /> </p>
 🌱 I’m Currently Working On
 Smart Waste Management System 🗑 – A scalable, efficient waste management solution with Neon DB, drizzle-orm, and Web3 Auth.
 Personal Projects to sharpen my JavaScript and React expertise.
