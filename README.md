@@ -1,40 +1,91 @@
-# 👋 Hello World! I'm **[CharithCD]** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-
-![GitHub Header](https://your-image-link.com/header-image.png) <!-- Add a cool header image -->
-
----
+<h2 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  Welcome to My Creative Space!
+</h2>
 
 <p align="center">
-  <a href="https://github.com/yourusername"><img src="https://img.shields.io/github/followers/yourusername?label=Follow&style=social"></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=flat&logo=gmail&logoColor=white"></a>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;Always+learning+new+things;5%2B+years+of+coding+experience&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+</p>
+
+<p align="center">
+  <img src="https://github-contribution-stats.vercel.app/api/?username=CharithCD" alt="Contribution Stats">
+</p>
+
+## 🚀 About Me
+
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Your Name"
+        self.role = "Full Stack Developer"
+        self.language_spoken = ["en_US", "es_ES"]
+        self.code = ["Python", "JavaScript", "React", "Node.js"]
+        self.challenge = "I am doing the #100DaysOfCode challenge focused on React and TypeScript"
+        
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something amazing together!")
+
+me = Developer()
+me.say_hi()
+```
+
+## 🔥 Streak Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CharithCD&theme=monokai-metallian&hide_border=true"/>
+</p>
+
+## 🛠️ My Favorite Tools
+
+### 👨‍💻 Programming Languages
+
+<p>
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
+    <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white">
+</p>
+
+### 🧰 Frameworks and Libraries
+
+<p>
+    <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB">
+    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white">
+    <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white">
+</p>
+
+## 📊 Github Stats
+
+<details> 
+  <summary>💻 GitHub Profile Stats</summary>
+  <br/>
+    <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=CharithCD&show_icons=true&theme=radical" />
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharithCD&langs_count=8&layout=compact&theme=radical" />
+  <br/>
+</details>
+
+## 🎯 Latest Projects
+
+<p align="left">
+  <a href="https://github.com/YourGitHubUsername/Project1">
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=YourGitHubUsername&repo=Project1&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Project 1">
+  </a>
+  <a href="https://github.com/YourGitHubUsername/Project2">
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=YourGitHubUsername&repo=Project2&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Project 2">
+  </a>
+</p>
+
+## 🤝 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/YourProfile"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://twitter.com/YourProfile"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=CharithCD&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
 
 ---
 
-## 🚀 About Me
-
-```javascript```
-const [Name] = {
-  title: "Junior Software Engineer",
-  favoriteTech: ["JavaScript", "React", "Next.js", "Mongoose"],
-  currentLearning: ["Neon DB", "drizzle-orm", "Web3 Auth"],
-  funFact: "When I’m not coding, I’m diving into sci-fi novels and exploring innovative tech!",
-}
-
-🌟 Featured Projects
-<table> <tr> <td> <img src="https://your-image-link.com/seasavers.gif" width="100%" alt="SeaSavers" /> </td> <td> <h3>SeaSavers 🌊</h3> <p>A mobile app promoting beach cleanups and marine conservation. Built with Expo & AppWrite.</p> <p><strong>Highlights:</strong> Gamification, community collaboration, educational content</p> </td> </tr> <tr> <td> <img src="https://your-image-link.com/fashion.gif" width="100%" alt="Fashion App" /> </td> <td> <h3>Online Fashion Retail System 👗</h3> <p>A personalized fashion e-commerce platform built with Next.js and powered by ML for recommendations.</p> <p><strong>Highlights:</strong> Trend-based recommendations, user history, collaborative filtering</p> </td> </tr> </table>
-
-📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=CharithCD&show_icons=true&theme=radical" width="400" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" width="400" alt="GitHub Streak" /> </p>
-🌱 I’m Currently Working On
-Smart Waste Management System 🗑 – A scalable, efficient waste management solution with Neon DB, drizzle-orm, and Web3 Auth.
-Personal Projects to sharpen my JavaScript and React expertise.
-Continuous learning with a focus on backend optimizations and secure auth systems.
-<p align="center"> <img src="https://media.giphy.com/media/l0HlSNOxJB956qwfK/giphy.gif" width="200px"> </p>
-
-📫 Connect with Me!
-🌐 Portfolio
-💼 LinkedIn
-📧 Email
-
-"In code, we trust." 💻
+<h3 align="center">
+    💻 Made with ❤️ by Damruwan
+</h3>
