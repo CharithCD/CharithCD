@@ -63,9 +63,9 @@ me.say_hi()
 
 ## 🐍 Contribution Snake
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YourGitHubUsername/YourGitHubUsername/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YourGitHubUsername/YourGitHubUsername/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YourGitHubUsername/YourGitHubUsername/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CharithCD/CharithCD/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CharithCD/CharithCD/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CharithCD/CharithCD/output/github-contribution-grid-snake.svg">
 </picture>
 
 ## 🎯 Latest Projects
