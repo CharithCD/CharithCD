@@ -17,7 +17,6 @@
 - [🛠️ My Favorite Tools](#%EF%B8%8F-my-favorite-tools)
     - [👨‍💻 Programming Languages](#-programming-languages)
     - [🧰 Frameworks and Libraries](#-frameworks-and-libraries)
-- [📊 Github Stats](#-github-stats)
 - [🎯 Latest Projects](#-latest-projects)
 - [🤝 Connect with Me](#-connect-with-me)
 
@@ -82,7 +81,7 @@ me.say_hi()
 ## 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YourProfile"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/damruwan/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://twitter.com/YourProfile"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
 </p>
 
