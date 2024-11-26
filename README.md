@@ -71,10 +71,10 @@ me.say_hi()
 ## 🎯 Latest Projects
 
 <p align="left">
-  <a href="https://github.com/YourGitHubUsername/Project1">
-    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=YourGitHubUsername&repo=Project1&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Project 1">
+  <a href="https://github.com/CharithCD/seasaver">
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CharithCD&repo=seasaver&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Project 1">
   </a>
-  <a href="https://github.com/YourGitHubUsername/Project2">
+  <a href="https://github.com/CharithCD/Project2">
     <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=YourGitHubUsername&repo=Project2&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Project 2">
   </a>
 </p>
