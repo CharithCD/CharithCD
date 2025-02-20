@@ -37,11 +37,6 @@ me = Developer()
 me.say_hi()
 ```
 
-## 🔥 Streak Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CharithCD&theme=monokai-metallian&hide_border=true"/>
-</p>
-
 ## 🛠️ My Favorite Tools
 
 ### 👨‍💻 Programming Languages
@@ -66,17 +61,6 @@ me.say_hi()
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CharithCD/CharithCD/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CharithCD/CharithCD/output/github-contribution-grid-snake.svg">
 </picture>
-
-## 🎯 Latest Projects
-
-<p align="left">
-  <a href="https://github.com/CharithCD/seasaver">
-    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CharithCD&repo=seasaver&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Project 1">
-  </a>
-  <a href="https://github.com/CharithCD/Project2">
-    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=YourGitHubUsername&repo=Project2&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Project 2">
-  </a>
-</p>
 
 ## 🤝 Connect with Me
 
